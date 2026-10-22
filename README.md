@@ -111,3 +111,7 @@ com.syncmod
 ├── client.sync              plan, téléchargement, installation, redémarrage
 └── client.screen            écran de synchronisation
 ```
+
+## Licence
+
+SyncMod est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).
