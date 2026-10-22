@@ -9,6 +9,8 @@ file = "META-INF/accesstransformer.cfg"
 modId = "syncmod"
 version = "1.0.0"
 displayName = "SyncMod"
+logoFile = "logo.png"
+logoBlur = false
 description = "Synchronise les mods du client avec ceux exiges par le serveur."
 
 [[dependencies.syncmod]]
