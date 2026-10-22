@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/main/resources/logo.png" alt="Logo SyncMod" width="160">
+</p>
+
 # SyncMod
 
 Mod NeoForge 1.21.1 (Java 21) qui synchronise le dossier `mods/` d'un joueur avec celui d'un serveur dédié.
